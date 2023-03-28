@@ -4,9 +4,9 @@
 }
 .prodect-prant{
     display: grid;
-    grid-template-columns: repeat(3 ,1fr);
+    grid-template-columns: repeat(3 ,320px);
     gap: 47px;
-    margin-left: 50px;
+    margin-left: 150px;
     margin-top: 50px;
     
 }
